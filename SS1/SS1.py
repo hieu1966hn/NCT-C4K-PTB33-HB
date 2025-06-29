@@ -16,4 +16,4 @@ print(f"8 x 10 = {8*10}")
 
 
 ## code thường
-print(f"8 x 1 = {8*1}") 
+print(f"8 x 1 = {8*1}")
